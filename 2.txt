@@ -1,0 +1,11 @@
+~A
+~F|~B|~D
+~B|F
+~D|F
+~G|A|C|E
+~A|G
+~C|G
+~E|G
+~F
+
+B
